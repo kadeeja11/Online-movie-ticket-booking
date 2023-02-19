@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ONLINE MOVIE TICKET BOOKING(User&apos;s Page)" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ONLINE MOVIE TICKET BOOKING(User&apos;s Page)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ONLINE MOVIE TICKET BOOKING(User&apos;s Page)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="booking_id.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cancel_ticket.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initial_seat_11am.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initial_seat_11pm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initial_seat_2pm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initial_seat_5pm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initial_seat_8pm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="payment_details.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ticket_booking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="upcoming_movies.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="users_now_showing.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

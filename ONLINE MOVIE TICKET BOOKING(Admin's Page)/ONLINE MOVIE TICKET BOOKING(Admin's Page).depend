@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1643621348 source:c:\users\junai\desktop\theatre\online movie ticket booking(admin's page)\admin's_now_showingg.c
+	<stdio.h>
+	<stdlib.h>
+
+1643592211 source:c:\users\junai\desktop\theatre\online movie ticket booking(admin's page)\main.c
+	<stdio.h>
+	<stdlib.h>
+

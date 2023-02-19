@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1643607676 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\cancel_ticket.c
+
+1643604130 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\initial_seat_11am.c
+	<stdio.h>
+
+1643607251 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1643592721 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\upcoming_movies.c
+	<stdio.h>
+	<stdlib.h>
+
+1643606105 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\users_now_showing.c
+	<stdio.h>
+	<stdlib.h>
+
+1643610583 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\booking_id.c
+	<stdio.h>
+	<stdlib.h>
+
+1643593078 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\initial_seat_11pm.c
+	<stdio.h>
+	<stdlib.h>
+
+1643592849 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\initial_seat_2pm.c
+	<stdio.h>
+
+1643592964 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\initial_seat_5pm.c
+	<stdio.h>
+
+1643593030 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\initial_seat_8pm.c
+	<stdio.h>
+	<stdlib.h>
+
+1643606504 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\ticket_booking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1643605533 source:c:\users\junai\desktop\theatre\online movie ticket booking(user's page)\payment_details.c
+
